@@ -6,4 +6,4 @@
 
 🌱 I’m currently learning Vision AI & Game AI
 
-📫 Grepp AI Engineer Intern 2021.11~  
+📫 Grepp AI Engineer 2021.11~  
